@@ -119,10 +119,19 @@ p{
 }
 
 
-/* Pricing Section */
+/* Clases Section */
 
-#pricing {
+#clases {
     padding: 100px;
+}
+
+.card-lista {
+    text-align: left;
+}
+
+.icono-nadar {
+    color: #ef8172;
+    margin: auto;
 }
 
 .pricing-column {
