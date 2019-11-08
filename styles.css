@@ -72,9 +72,9 @@ p{
     margin: 5% 3% 5% 0;
 }
 
-/* Features Section */
+/* Servicios Section */
 
-#features {
+#servicios {
     padding: 7% 15%;
 }
 
@@ -129,14 +129,18 @@ p{
     padding: 3% 2%;
 }
 
-/* Cta Section */
+/* Contacto Section */
 
-#cta {
+#contacto {
     background-color: #ff4c68;
     color: #fff;
-    padding: 7% 15%;
+    padding: 2% 15%;
     margin: 0% 0% 8%;
     
+}
+
+.boton-telefono {
+    margin: 1%;
 }
 
 .title-cta {
@@ -147,7 +151,7 @@ p{
 
 .network-icons {
     margin: 25px;
-
+    color: black;
 }
 
 
@@ -163,3 +167,5 @@ p{
         position: static;
     }
 }
+
+
