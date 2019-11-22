@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/rehabi11/repositories/remesPaginaWeb 
+    - /bin/cp * $DEPLOYPATH
