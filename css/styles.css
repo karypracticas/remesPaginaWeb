@@ -152,7 +152,7 @@ p{
     background-color: #ff4c68;
     color: #fff;
     padding: 2% 15%;
-    margin: 0% 0% 8%;
+    margin: 0% 0% 2%;
     
 }
 
@@ -169,6 +169,10 @@ p{
 .network-icons {
     margin: 25px;
     color: black;
+}
+
+#footer {
+    margin: 0% 0% 2%; 
 }
 
 /* Media Queries */
