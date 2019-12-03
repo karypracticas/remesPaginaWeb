@@ -171,6 +171,8 @@ p{
     color: black;
 }
 
+/* Footer */
+
 #footer {
     margin: 0% 0% 2%; 
 }
@@ -186,6 +188,32 @@ p{
     .title-image {
         position: static;
     }
+   
+    .nav-link {
+        font-size: 2rem;
+    }
+
+    .parrafo-title {
+        font-size: 19px;
+    }
+
+    #servicios {
+        font-size: 19px;
+    }
+
+   .boton-telefono {
+       font-size: 30px;
+   }
+
+   #footer {
+       font-size: 20px;
+   }
+
+   .copyRight {
+    font-size: 25px;
+   }
+
+    
 }
 
 
