@@ -171,11 +171,6 @@ p{
     color: black;
 }
 
-.copyright {
-    color: black;
-}
-
-
 /* Media Queries */
 
 @media (max-width: 1028px) {
